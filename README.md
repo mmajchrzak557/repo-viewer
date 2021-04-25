@@ -40,3 +40,6 @@
 * wyświetlanie kontrybutorów 
 * wyświetlanie awatarów użytkowników
 * sortowanie listy repozytoriów ze względu na liczbę gwiazdek i daty ostatniej aktualizacji
+
+## Uruchomienie aplikacji
+* plik .apk zawarty w tym repozytorium
