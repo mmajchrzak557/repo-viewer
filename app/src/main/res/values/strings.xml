@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Repo Viewer</string>
+    <string name="label_name"><![CDATA[<font color="#FF5A00"><b><i>Name:</i></b></font> %s]]></string>
+    <string name="label_description"><![CDATA[<font color="#FF5A00"><b><i>Description:</i></b></font> %s]]></string>
+    <string name="label_language"><![CDATA[<font color="#FF5A00"><b><i>Main language:</i></b></font> %s]]></string>
+    <string name="label_owner"><![CDATA[<font color="#FF5A00"><b><i>Owner:</i></b></font> %s]]></string>
+    <string name="label_url"><![CDATA[<font color="#FF5A00"><b><i>URL:</i></b></font> %s]]></string>
+    <string name="label_pushed_at"><![CDATA[<font color="#FF5A00"><b><i>Pushed at:</i></b></font> %s]]></string>
+    <string name="label_updated_at"><![CDATA[<font color="#FF5A00"><b><i>Modified at:</i></b></font> %s]]></string>
+    <string name="label_watchers"><![CDATA[<font color="#FF5A00"><b><i>Watchers:</i></b></font> %s]]></string>
+    <string name="label_forks"><![CDATA[<font color="#FF5A00"><b><i>Forks:</i></b></font> %s]]></string>
+    <string name="label_stars"><![CDATA[<font color="#FF5A00"><b><i>Stars:</i></b></font> %s]]></string>
+    <string name="dummy_string_short">TEST</string>
+    <string name="dummy_string_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                                    nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="toast_api_error">Something went wrong</string>
+    <string name="toast_api_rate_limit">Rate limit exceeded</string>
+    <string name="toast_commit_activity_error">Couldn\'t show commit activity</string>
+    <string name="toast_readme_error">Couldn\'t show README</string>
+    <string name="markdown_no_readme"><![CDATA[<h2 text-align:center>No README provided</h2>]]></string>
+</resources>
